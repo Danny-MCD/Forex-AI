@@ -1,0 +1,2 @@
+# Forex-AI
+Forex AI
